@@ -1,0 +1,6 @@
+homepage: "https://newad.com.br/"
+documentation: "https://github.com/newadbr/newad-gtm-consent-external-banner-template#readme"
+# Replace sha below with the full SHA from Commit 1 in the target repository.
+versions:
+  - sha: 644ce30b308233eee3b065297b586f7b032cd17d
+    changeNotes: Initial release.
